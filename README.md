@@ -31,7 +31,7 @@ Projects
 | **[Backjeonnojang](https://github.com/ancsv/Backjeonnojang_BE)**                     | WebSocket(STOMP) 기반 온라인 장기 게임                     | Spring Boot, WebSocket    |
 | **[Blue Horizon](https://github.com/pblEteam/BlueHorizon)**             | Meta Quest 2 기반 VR 해양 환경 교육 게임                    | Unity, C#                 |
 | **[Friend](https://github.com/Friend-FE)**                   | 교내 소개팅 매칭 서비스 (Q&A·매칭 시스템)                        | JSP, Java, MySQL          |
-| **[AWS Image Upload Backend](https://github.com/SuperCoding-PJ2/BE)** | AWS S3·EC2·RDS 기반 이미지 업로드 백엔드                     | Spring Boot, AWS          |
+| **[Supercodingpj2](https://github.com/SuperCoding-PJ2/BE)** | AWS S3·EC2·RDS 기반 쇼핑몰 백엔드                     | Spring Boot, AWS          |
 
 
 Animation created using only Python code, without using any images
