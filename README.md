@@ -34,7 +34,7 @@ Tech Stack
 
 Animation created using only Python code
 
-<img width="372" height="206" alt="마뇽 2025-10-31 22-25-28" src="https://github.com/user-attachments/assets/6b7c4187-0740-41ac-a28a-2c08b97ddb0f" />
+<img width="672" height="506" alt="마뇽 2025-10-31 22-25-28" src="https://github.com/user-attachments/assets/6b7c4187-0740-41ac-a28a-2c08b97ddb0f" />
 
 
 
