@@ -18,6 +18,7 @@
 | **Network** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![GNS3](https://img.shields.io/badge/GNS3-0085CA?style=flat-square) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white) |
 
 
+
 | Project                      | Description                                       | Tech                      |
 | ---------------------------- | ------------------------------------------------- | ------------------------- |
 | **[Stegano Gateway](https://github.com/etc-true-friends/stegano-gateway)**          | AI Steganography Detection & CDR Gateway          | Spring Boot, FastAPI, AWS |
@@ -30,6 +31,11 @@
 | **[Friend](https://github.com/Friend-FE)**                   | 교내 소개팅 매칭 서비스 (Q&A·매칭 시스템)                        | JSP, Java, MySQL          |
 | **[AWS Image Upload Backend](https://github.com/SuperCoding-PJ2/BE)** | AWS S3·EC2·RDS 기반 이미지 업로드 백엔드                     | Spring Boot, AWS          |
 
+
+
+
+
+Uploading 마뇽 2025-10-31 22-25-28.mp4…
 
 
 
