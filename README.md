@@ -1,6 +1,5 @@
 
 <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/0041fc60-85a6-4d63-aba7-9b9a2c9a22f0" />
-
 Education & Activities
 
 - **KT Cloud × goorm K-Digital Training**
@@ -14,6 +13,7 @@ Education & Activities
 - **UMC (University MakeUs Challenge)**
   - National University Developer Community
   - Sep. 2023 – Feb. 2024
+
 
 Tech Stack
 | Category | Technologies |
