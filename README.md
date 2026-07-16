@@ -1,6 +1,5 @@
 
 <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/0041fc60-85a6-4d63-aba7-9b9a2c9a22f0" />
-
 | Category | Technologies |
 |----------|--------------|
 | 🌐 **Language** | ![Java](https://img.shields.io/badge/Java-F3F3F3?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F3F3F3?style=flat-square) ![Python](https://img.shields.io/badge/Python-DDEFD8?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-F7D9E7?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-F7D9E7?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-F8E7BE?style=flat-square) ![C/C++](https://img.shields.io/badge/C/C++-E8DDD4?style=flat-square) ![C#](https://img.shields.io/badge/C%23-F6D6E8?style=flat-square) |
