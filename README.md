@@ -34,7 +34,7 @@ Tech Stack
 
 Animation created using only Python code, without using any images
 
-<img width="1136" height="632" alt="GIF로 변환 프로젝트 - 2026년 7월 16일 11 32 09" src="https://github.com/user-attachments/assets/b19dba38-ce87-411d-b6c3-ec810fae112f" />
+<img width="936" height="532" alt="GIF로 변환 프로젝트 - 2026년 7월 16일 11 32 09" src="https://github.com/user-attachments/assets/b19dba38-ce87-411d-b6c3-ec810fae112f" />
 
 
 
