@@ -14,7 +14,7 @@
 | **ASM Scanner**              | Attack Surface Management Scanner                 | Python, Nmap, Nuclei      |
 | **Malware Analysis**         | Malware Dynamic Analysis & Behavior Visualization | Wazuh, Sysmon, YARA       |
 | **Stack**                    | AI Project Portfolio & Collaboration Platform     | React, FastAPI            |
-| **백전노장**                     | WebSocket(STOMP) 기반 온라인 장기 게임                     | Spring Boot, WebSocket    |
+| **Backjeonnojang**                     | WebSocket(STOMP) 기반 온라인 장기 게임                     | Spring Boot, WebSocket    |
 | **Blue Horizon**             | Meta Quest 2 기반 VR 해양 환경 교육 게임                    | Unity, C#                 |
 | **Friend**                   | 교내 소개팅 매칭 서비스 (Q&A·매칭 시스템)                        | JSP, Java, MySQL          |
 | **AWS Image Upload Backend** | AWS S3·EC2·RDS 기반 이미지 업로드 백엔드                     | Spring Boot, AWS          |
