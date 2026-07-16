@@ -13,7 +13,7 @@
 | 💿 **OS** | ![Linux](https://img.shields.io/badge/Linux-F8E7BE?style=flat-square) ![RHEL](https://img.shields.io/badge/RHEL-F8E7BE?style=flat-square) ![Ubuntu](https://img.shields.io/badge/Ubuntu-EDEDED?style=flat-square) ![VMware](https://img.shields.io/badge/VMware-EDEDED?style=flat-square) |
 | 🌐 **Network** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-F8E7BE?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-DCEEE4?style=flat-square) ![Tailscale](https://img.shields.io/badge/Tailscale-EDEDED?style=flat-square) ![GNS3](https://img.shields.io/badge/GNS3-EDEDED?style=flat-square) |
 
-
+ㅇ
 | Project                      | Description                                       | Tech                      |
 | ---------------------------- | ------------------------------------------------- | ------------------------- |
 | **[Stegano Gateway](https://github.com/etc-true-friends/stegano-gateway)**          | AI Steganography Detection & CDR Gateway          | Spring Boot, FastAPI, AWS |
