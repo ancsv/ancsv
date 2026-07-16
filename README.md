@@ -1,7 +1,7 @@
 
 <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/0041fc60-85a6-4d63-aba7-9b9a2c9a22f0" />
-## 💻 Tech Stack
 
+Tech Stack
 | Category | Technologies |
 |----------|--------------|
 | **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
@@ -32,10 +32,10 @@
 | **[AWS Image Upload Backend](https://github.com/SuperCoding-PJ2/BE)** | AWS S3·EC2·RDS 기반 이미지 업로드 백엔드                     | Spring Boot, AWS          |
 
 
+Animation created using only Python code
+<img width="372" height="206" alt="마뇽 2025-10-31 22-25-28" src="https://github.com/user-attachments/assets/6b7c4187-0740-41ac-a28a-2c08b97ddb0f" />
 
 
-
-Uploading 마뇽 2025-10-31 22-25-28.mp4…
 
 
 
