@@ -22,16 +22,5 @@
 | **AWS Image Upload Backend** | AWS S3·EC2·RDS 기반 이미지 업로드 백엔드                     | Spring Boot, AWS          |
 
 
-![](https://komarev.com/ghpvc/?username=아이디)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=아이디
 
-github-readme-activity-graph
-
-Python
-Spring
-Docker
-AWS
-Linux
-React
-FastAPI
