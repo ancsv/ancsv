@@ -19,6 +19,8 @@ Tech Stack
 
 
 
+Projects
+
 | Project                      | Description                                       | Tech                      |
 | ---------------------------- | ------------------------------------------------- | ------------------------- |
 | **[Stegano Gateway](https://github.com/etc-true-friends/stegano-gateway)**          | AI Steganography Detection & CDR Gateway          | Spring Boot, FastAPI, AWS |
