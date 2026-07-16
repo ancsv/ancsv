@@ -32,9 +32,10 @@ Tech Stack
 | **[AWS Image Upload Backend](https://github.com/SuperCoding-PJ2/BE)** | AWS S3·EC2·RDS 기반 이미지 업로드 백엔드                     | Spring Boot, AWS          |
 
 
-Animation created using only Python code
+Animation created using only Python code, without using any images
 
-<img width="772" height="506" alt="마뇽 2025-10-31 22-25-28" src="https://github.com/user-attachments/assets/6b7c4187-0740-41ac-a28a-2c08b97ddb0f" />
+<img width="372" height="206" alt="마뇽 2025-10-31 22-25-28" src="https://github.com/user-attachments/assets/973d2aa1-e7d6-436f-bf02-4b2cb714ac6f" />
+
 
 
 
